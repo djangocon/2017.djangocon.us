@@ -1,0 +1,77 @@
+.header {
+  position: relative;
+  background: url(/static/img/top-trees.png);
+  background: url(/static/img/top-trees.svg), none;
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-color: $green;
+  background-size: 100% auto;
+  padding: 140px 0 40px;
+  text-align: center;
+
+  h1 {
+    color: $light-blue;
+  }
+
+  .subhead {
+    color: $body-background;
+    text-align: center;
+    max-width: 660px;
+  }
+
+  .subhead strong {
+    display: block;
+  }
+
+  .subheading {
+    @extend h4;
+  }
+
+  .location:before {
+    content: "";
+    width: 100px;
+    display: block;
+    margin: 0 auto 0.5em;
+    border-top: 1px solid $body-background;
+  }
+
+
+
+  @include breakpoint(medium) {
+    padding-top: 35vw;
+    background-position: 0 -50px;
+
+    .subhead {
+      text-align: right;
+    }
+
+
+
+    .location {
+      border-left: 1px solid $body-background;
+      padding-top: 0;
+      text-align: left;
+
+      &:before {
+        content: none;
+      }
+    }
+  }
+
+  @include breakpoint(smedium) {
+    padding-top: 25vw;
+    background-position: 0 -36px;
+  }
+
+  @include breakpoint(medium) {
+    background-position: 0 -80px;
+  }
+
+  @include breakpoint(large) {
+    background-position: 0 -100px;
+  }
+
+  @include breakpoint(xxlarge) {
+    padding-bottom: 100px;
+  }
+}

@@ -1,4 +1,8 @@
 _site
 .sass-cache
+.DS_Store
 .jekyll-metadata
 Gemfile.lock
+
+bower_components/
+node_modules/
