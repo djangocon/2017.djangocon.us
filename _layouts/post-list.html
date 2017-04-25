@@ -3,11 +3,9 @@ layout: news-base
 permalink: /news/
 ---
 
-
-<ul class="post-list">
 {% for post in site.posts %}
-  {% unless post.hidden %}
-  <li class="post-item">
+  {% unless post.hidden or post.category == 'talk' or post.category == 'tutorial' %}
+  <article class="post-item">
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h2 class="post-title">
       <a
@@ -17,7 +15,6 @@ permalink: /news/
     {% if forloop.first %}
       {{ post.excerpt }}
     {% endif %}
-  </li>
+  </article>
   {% endunless %}
 {% endfor %}
-</ul>
