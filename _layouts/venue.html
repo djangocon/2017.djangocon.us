@@ -101,8 +101,8 @@ layout: base
           </h3>
           <p class="attraction-description">
             <strong>Website:</strong> <a href="{{ places.website }}" target="_blank"> {{ places.name }}</a><br>
-            <strong>Distance:</strong> <span class="label">{{ places.distance }} </span><br>
-            <strong>Address:</strong> {{ places.location }}
+            <strong>Distance:</strong>  <span class="label">{{ places.distance }} </span><br>
+            <strong>Address:</strong> <a href="{{ places.map }}" target="_blank">{{ places.location }}</a>
           <br>
           <i>{{ places.description }}</i></p>
         </div>

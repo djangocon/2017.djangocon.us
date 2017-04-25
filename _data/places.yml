@@ -6,7 +6,8 @@ places:
     hidden: true
     photo_url: "/static/img/places/placeholder.jpg"
     location: "905 N Washington St"
-    distance: ".3mi away"
+    distance: "390 ft"
+    map: "https://goo.gl/maps/v2en64QvP8s"
     website: "http://theblackbirdspokane.com"
     description: |
         Modern gastropub serving New American eats such as duck sliders, plus cocktails & tap beer & wine.
@@ -16,6 +17,7 @@ places:
     photo_url: "/static/img/places/placeholder.jpg"
     location: "825 N Monroe St"
     distance: ".6mi away"
+    map: "https://goo.gl/maps/2gMjcbBLxkR2"
     website: "https://www.facebook.com/ruins.spokane/"
     description: |
         Comfy, casual nook pairing craft cocktails with a rotating menu of creative, eclectic bar fare.
@@ -24,7 +26,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "214 N Howard St"
-    distance: ".3mi away"
+    distance: ".5mi away"
+    map: "https://goo.gl/maps/64bBkfDvVXo"
     website: "http://www.mizuna.com/"
     description: |
         Upscale-casual, globally inspired eatery using local & organic ingredients, offering vegan options.
@@ -33,25 +36,18 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "621 W. Mallon Street"
-    distance: ".5mi away"
+    distance: ".4mi away"
+    map: "https://goo.gl/maps/RyNebuPnip22"
     website: "http://clinkerdagger.com/"
     description: |
         Old-school steakhouse opened in 1974 overlooking the Spokane River, with skyline views & deck.
-
-  - name: "Coeur Coffeehouse"
-    hidden: false
-    photo_url: "/static/img/places/placeholder.jpg"
-    location: "701 N Monroe St"
-    distance: ".3mi away"
-    website: "https://coeurcoffeehouse.com/"
-    description: |
-        Contemporary coffee house serving house-roasted brews, plus cookies, pastries & other light eats.
 
   - name: "Atticus Coffee & Gifts"
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "222 N Howard St"
-    distance: ".3mi away"
+    distance: ".5mi away"
+    map: "https://goo.gl/maps/FQhZQ6YKMkv"
     website: "https://www.facebook.com/AtticusCoffee/"
     description: |
         Cozy, brick-walled coffee & gift shop with cafe fare, local roasts & loose teas sold in bulk.
@@ -60,7 +56,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "1001 W 1st Ave"
-    distance: ".3mi away"
+    distance: "1.1mi away"
+    map: "https://goo.gl/maps/6g8KMfp8HRx"
     website: "https://brooklyndelispokane.com/"
     description: |
         Award winning food in a friendly dining and drinking atmosphere. Twelve beers on tap and a thorough selection of wines and liquors.
@@ -69,7 +66,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "718 W Riverside Ave #101"
-    distance: ".3mi away"
+    distance: ".7mi away"
+    map: "https://goo.gl/maps/kNRhDUNw1uy"
     website: "http://www.methodjuicecafe.com/"
     description: |
         Method Juice Cafe in Spokane offers flavorful eats and tasty desserts. Parents, bring your kids along to a family-friendly menu and ambience.
@@ -78,7 +76,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "210 N Howard St"
-    distance: ".3mi away"
+    distance: ".5mi away"
+    map: "https://goo.gl/maps/jHEYaYeaACA2"
     website: "http://indabacoffee.com"
     description: |
         Where hospitality meets great coffee. Love people <3 love coffee
@@ -87,7 +86,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "430 W Main Ave"
-    distance: ".3mi away"
+    distance: ".6mi away"
+    map: "https://goo.gl/maps/4rHYceeE9542"
     website: "https://sites.google.com/site/sushicom75//home"
     description: |
         Japanese bistro dishing inventive sushi, hot dishes & sakes in airy digs with Asian decor touches.
@@ -96,7 +96,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "404 W Main Ave"
-    distance: ".3mi away"
+    distance: ".6mi away"
+    map: "https://goo.gl/maps/yoPBcsc8Gr42"
     website: "http://santespokane.com/"
     description: |
         Hip New American eatery & market offering 3 meals daily plus housemade sausage & salami to go.
@@ -105,7 +106,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "103 W Main Ave"
-    distance: ".3mi away"
+    distance: ".6mi away"
+    map: "https://goo.gl/maps/5aGYq2dr6fq"
     website: "http://www.madeleines-spokane.com/"
     description: |
         Busy spot with Provencal & factory-chic design offers French pastries, sandwiches, coffee & a patio.
@@ -114,7 +116,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "108 N Washington St # 105"
-    distance: ".3mi away"
+    distance: ".7mi away"
+    map: "https://goo.gl/maps/rnXddeGFnEr"
     website: "http://www.leftbankwinebar.com/"
     description: |
         Cozy, unpretentious spot for wine, thin-crust pizza, small plates, local craft beers & live music.
@@ -123,7 +126,8 @@ places:
     hidden: false
     photo_url: "/static/img/places/placeholder.jpg"
     location: "113 N Bernard St"
-    distance: ".3mi away"
+    distance: ".8mi away"
+    map: "https://goo.gl/maps/iaGjnZtGBZ32"
     website: "http://www.italiankitchenspokane.com/"
     description: |
         Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines. 
@@ -133,6 +137,7 @@ places:
     photo_url: "/static/img/places/placeholder.jpg"
     location: "230 W Riverside Ave"
     distance: ".3mi away"
+    map: "https://goo.gl/maps/93ayfXfHTiN2"
     website: "https://www.facebook.com/garagelandspokane/"
     description: |
         Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines. 
