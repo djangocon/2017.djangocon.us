@@ -76,20 +76,15 @@ If your physical safety or the physical safety of others is at risk, please cont
 ### Emergency Text: 
 TEXT 911 (when Spokane County citizens cannot safely make a phone call or those who have hearing or speech disabilities. Emergency ONLY. Give location of emergency, use simple words to ask help from police, fire, or medical help. This will NOT work while your phone is roaming.)
 
-### Spokane Police Helpline: 
-(509) 477-5980
+### Spokane Police Helpline: (509) 477-5980
 
-### Spokane Police Tipline: 
-(509) 242-8477
+### Spokane Police Tipline: (509) 242-8477
 
-### Crime Check - To report Non-Emergency incidents: 
-(509) 456-2233
+### Crime Check - To report Non-Emergency incidents: (509) 456-2233
 
-### Sexual Assault Crisis Line/Victims Crisis Line - 24 hours: 
-(509) 624-7273
+### Sexual Assault Crisis Line/Victims Crisis Line - 24 hours: (509) 624-7273
 
-### Nearest Hospital: 
-Deaconess Hospital, 800 W 5th Ave, (509) 473-5800
+### Nearest Hospital: Deaconess Hospital, 800 W 5th Ave, (509) 473-5800
 
 
 {% comment %}
