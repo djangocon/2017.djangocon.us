@@ -68,7 +68,7 @@ of the gig economy are all reasons why highly competent, potential
 event-goers can’t foot the bill. But that doesn’t make them in anyway
 less desirable to have around. Quite the contrary.
 
-Tito had spent a whole month of their 
+Tito has spent a whole month of their 
 [blog space](http://blog.tito.io/) talking about how to secure
 sponsorship for your event which can help to fund ticket discounts
 and making way for more people to enjoy events. They’ve also made it
