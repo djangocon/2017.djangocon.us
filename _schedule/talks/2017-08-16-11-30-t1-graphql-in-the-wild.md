@@ -21,7 +21,7 @@ presenters:
   company: 7Geese
   github: ''
   name: Arianne Dee
-  photo_url: 'https://www.gravatar.com/avatar/a76d801876ae3676b3d5041e9348a1da?s=400'
+  photo_url: 'https://40bgqrkkuuk2hpdzn5aqyy13-wpengine.netdna-ssl.com/wp-content/themes/7g/style/img/team/arriane.png'
   twitter: ''
   website: ''
 room: 'Ballroom A'
