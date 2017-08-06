@@ -344,3 +344,19 @@ levels:
         conferences around the world, and fund Python related
         development with our grants program and by funding special
         projects.
+
+
+  - name: Community
+    sponsors:
+
+    - name: "United States PostgreSQL Association"
+      logo: "/static/img/sponsors/pguslogo."
+      logo_orientation: "portrait"
+      url: "https://postgresql.us/"
+      url_friendly: "www.postgresql.us"
+      description: |
+        The United States PostgreSQL Association, affectionately known
+        as PgUS, is a IRS 501(c)(3) public charity. Our purpose is to
+        support the growth and education of PostgreSQL, 
+        The World's Most Advanced Open Source Database.
+
