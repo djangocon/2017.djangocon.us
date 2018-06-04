@@ -12,7 +12,7 @@ Another DjangoCon US is in the books! Thank you to our attendees, [speakers](htt
 ## 2017 by the Numbers
 
 - 10th DjangoCon US
-- 245 talk submissions
+- 218 talk submissions (updated 2018-06-04)
 - 46 talk presenters
 - 27 tutorial submissions
 - 6 tutorial presentations
