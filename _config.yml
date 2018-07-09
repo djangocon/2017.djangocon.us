@@ -4,6 +4,8 @@ author : DjangoCon US
 enforce_ssl: "2017.djangocon.us"
 relative_permalinks: false
 permalink: news/:title/  # permalink: date
+timezone: America/New_York
+
 contact_us_email: "hello@djangocon.us"
 sponsors_email: "sponsors@djangocon.us"
 coc_email: "coc@djangocon.us"
@@ -16,7 +18,7 @@ include:
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
