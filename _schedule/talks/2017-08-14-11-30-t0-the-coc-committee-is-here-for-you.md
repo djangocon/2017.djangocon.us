@@ -12,25 +12,17 @@ layout: session-details
 permalink: /talks/the-coc-committee-is-here-for-you/
 presenters:
 - bio: |
-    Sasha is the co-founder and CTO of a small Django development company in Amsterdam.
-    They are deeply involved in the community around Django, a popular Python web
-    framework, being a Django team member, chair of the Dutch Django Association and
-    co-organiser of various conferences. Sasha cares about building communities and
-    conferences in which everyone feels welcome, valued and at home, regardless of
-    their background. They have specific interest in well-being and ethical issues
-    around communities and development. One of their side projects is the Less Obvious
-    Conference Checklist, with many less obvious suggestions for event organisers.
+    Sasha is the co-founder and CTO of a small Python/Django development company in Amsterdam. She is deeply involved in the community around Django, a popular Python web framework, chair of the Dutch Django Association, former committer and co-organiser of various conferences. She cares about building communities and conferences in which everyone feels welcome, valued and at home, regardless of their background. Sasha has a specific interest in well-being and ethical issues around communities and development. Some of her side projects are the Less Obvious Conference Checklist, with many less obvious suggestions for event organisers, and Happiness Packets, to spread more gratitude and kindness in open source communities.
   company: ''
   github: ''
-  name: Erik Sasha Romijn
-  photo_url: 'https://www.gravatar.com/avatar/5b3dccd38a8e6d16fe11e29ee34ab8ab?s=400'
-  twitter: erikpub
-  website: http://erik.io
+  name: Sasha Romijn
+  photo_url: 'https://ucb0e40763c813649177395dd7b4.previews.dropboxusercontent.com/p/thumb/AAVK5M5rxJm2hAR_Nat92vC6C3T2epaMxu02VNfISILWjIMEX1xHuZDdNs_XBHiekeAr-JfhRirDq2UsHHtAcFYeaSmRLMpBlgnQO7LSDAhjb256yum1ocrxdERgIHlwHrY5b9BJM5jqS6W13gKp2BEQ0P6mo38puNurUp1xDqGjWVZxzC21eHN8bkGeU7tn7KXfO_Qg50mfmtjl_6M0qC3khWXLERvBMDZQT2KXfKsYXH7Rm3C1aeOCo-I9HmYcX6RkqDoXbe3gall1huv98UVS/p.jpeg?size_mode=5'
+  twitter: mxsash
+  website: https://www.mxsasha.eu/
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: The CoC committee is here for you
-video_url: 'https://youtu.be/6i5xmERxVDk'
 ---
 
 Since a community-wide Code of Conduct was adopted in 2013, the Django Software Foundation has had a Code of Conduct committee. The committee deals with CoC violations on e.g. mailing lists, aggregates reports from conferences, can check speaker lists against CoC reports and provide general advice and support. Django events tend to have their own CoC with their own CoC team.
