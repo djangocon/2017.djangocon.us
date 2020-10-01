@@ -1,4 +1,4 @@
-# Contributing to DjangoCon US 2017
+# Contribution to DjangoCon US 2017
 
 :thumbsup: :tada: Thank you so much for taking the time to contribute! :tada: :thumbsup: 
 
