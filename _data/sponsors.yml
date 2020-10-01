@@ -5,12 +5,14 @@ levels:
   - name: Diamond Sponsors
     sponsors:
 
+
       - name: "Lincoln Loop"
         logo: "/static/img/sponsors/ll_logo_landscape_color.svg"
         logo_orientation: landscape
         url: "https://lincolnloop.com/"
         url_friendly: "lincolnloop.com"
         description: |
+        
           Lincoln Loop is a full-service software development agency
           specializing in Python and Django development for web and
           mobile. Since 2007 our emphasis on quality in an agile environment
@@ -68,6 +70,8 @@ levels:
         skills required. Just choose from a gallery of mobile app
         templates, select your features, and fill it with content.
         Then publish in minutes to Google Play and the Apple App Store.
+
+
 
     - name: "JetBrains"
       logo: "/static/img/sponsors/jetbrains.png"
