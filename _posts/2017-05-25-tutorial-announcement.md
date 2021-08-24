@@ -11,7 +11,7 @@ After sifting through an amazing collection of submissions, we are proud to anno
 
 ## From 0 to 100 in Django
 
-Presented by [Jeremy Spencer](https://twitter.com/jeremytiki) \| Sunday, August 13, 9:00 AM - 12:30 PM \| Level: Beginner
+Presented by [Asterisk Spencer](https://twitter.com/aster_codes) \| Sunday, August 13, 9:00 AM - 12:30 PM \| Level: Beginner
 
 Since starting with Django and trying to give back to the community I always see the same questions pop-up.
 How do I set up static files? How do I run Django on a server? I want to do testing but I don’t know how to start. Why should I use git?
